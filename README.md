@@ -1,4 +1,5 @@
 # Profile_JirajoChan
+![Title](IMG_1764.png)
 ## ゲーム概要
 ### タイトル
 進め！じらじょちゃん
@@ -37,3 +38,16 @@
 - タスク管理ツール：Jira、Miro
 - スケジュール管理ツール：Jira
 
+## プレイ動画
+Googleドライブからダウンロードして見てください。
+[Googleドライブ(ゲームプレイ動画.mp4)](https://drive.google.com/drive/folders/1nMyY0sDotPW2siwIsQEvLhm_9mhOpkaG?usp=drive_link)
+
+## 実行ファイル
+実行ファイルダウンロード先 : [Googleドライブ](https://drive.google.com/drive/folders/1cghRlKG18eoQ9CXvRTsFN24R8oswNXNR?usp=sharing)
+※Googleドライブからダウンロードできます
+
+起動方法：「進め！じらじょちゃん.exe」をダブルクリックして開いてください。
+
+## 担当箇所・こだわったところ
+- [担当箇所の紹介・ソースコードの説明](担当箇所.md)
+- [こだわったところ・操作説明](こだわったとこ・操作説明.md)
