@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main.Assets/Scene/Title.unity
+    guid: 5780bbe3c49d97c44a256b49b6fa81e0
+  - enabled: 1
+    path: Assets/Main.Assets/Scene/Idol Introduction.unity
+    guid: 838ca57f455a84f479b58cb0690258b8
+  - enabled: 1
+    path: Assets/Main.Assets/Scene/Credit Introduction.unity
+    guid: 679e086ec5cbc5846b8567492a112a0c
+  - enabled: 1
+    path: Assets/Main.Assets/Scene/WayOfPlaying.unity
+    guid: 58b73da2ec621fa4b9396feaf4903042
+  - enabled: 1
+    path: Assets/Main.Assets/Scene/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Main.Assets/Scene/GameClear.unity
+    guid: 53fb2169b4943a543b102b044066af59
+  - enabled: 1
+    path: Assets/Main.Assets/Scene/GameOver.unity
+    guid: 5cf649dfe92d1dc4bafe4a1496bd6342
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}

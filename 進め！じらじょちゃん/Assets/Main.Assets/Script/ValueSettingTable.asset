@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ca194aa37857da43b02eec6ce22211e, type: 3}
+  m_Name: ValueSettingTable
+  m_EditorClassIdentifier: 
+  movePower: 24
+  walkBorder: 0.16
+  downBorder: 0.7
+  activeMoveTime: 1
+  PlayerRotateSpeed: 2
+  JOYSTIC_PlayerMoveSpeed: 0.05
+  cameraHitRadio: 1
+  smoothTime: 1
+  guardMoveSpeed: 2
+  guardAngularSpeed: 120
+  guardAcceleration: 8
+  masterVolume: 1
+  bgmMasterVolume: 1
+  seMasterVolume: 1
+  bgmSoundDatas:
+  - bgm: 0
+    audioClip: {fileID: 8300000, guid: f4529717f0bae1346a443dfd57682dff, type: 3}
+    volume: 1
+  - bgm: 1
+    audioClip: {fileID: 8300000, guid: 19b6d909e783dda46ada7e685174f988, type: 3}
+    volume: 1
+  - bgm: 2
+    audioClip: {fileID: 8300000, guid: a0b76a292f3731c4b8a8a498022f859d, type: 3}
+    volume: 1
+  - bgm: 3
+    audioClip: {fileID: 8300000, guid: 9c9871fdfc3ad16429db64a59bf1a45f, type: 3}
+    volume: 1
+  - bgm: 4
+    audioClip: {fileID: 8300000, guid: 436ae7f17cd5397419119a78ea962e72, type: 3}
+    volume: 1
+  seSoundDatas:
+  - se: 0
+    audioClip: {fileID: 8300000, guid: 7f078330dee4c9d4b9c5613e50a2d6f6, type: 3}
+    volume: 1
+  - se: 1
+    audioClip: {fileID: 8300000, guid: 6393ccc5daf1db841afea32a2b0b8748, type: 3}
+    volume: 1
+  - se: 2
+    audioClip: {fileID: 8300000, guid: e0649b7e9cab50f419661590f27e281a, type: 3}
+    volume: 1
+  - se: 3
+    audioClip: {fileID: 8300000, guid: 3a980fe32cba218478eacf237cad22f1, type: 3}
+    volume: 1
+  - se: 4
+    audioClip: {fileID: 8300000, guid: b778228fa1e01524b831a58efa67d8ae, type: 3}
+    volume: 1
+  - se: 5
+    audioClip: {fileID: 8300000, guid: d69f30b7dfafcd84fbc373d2400d58b2, type: 3}
+    volume: 1
+  - se: 6
+    audioClip: {fileID: 8300000, guid: 4df05138901ebcd499ae608c70cd74aa, type: 3}
+    volume: 1
+  - se: 7
+    audioClip: {fileID: 8300000, guid: cd0e3a8166b623d40bc4063859b3c81a, type: 3}
+    volume: 1
+  - se: 8
+    audioClip: {fileID: 8300000, guid: 575de072acc87bd4ebbd40732ea3b60c, type: 3}
+    volume: 1
+  - se: 10
+    audioClip: {fileID: 8300000, guid: 4f9bd71db4ec70e47b8d7e8cb9f4c53e, type: 3}
+    volume: 1
+  - se: 11
+    audioClip: {fileID: 8300000, guid: b735150c0582a824ab6a0207978acdfc, type: 3}
+    volume: 1
+  - se: 9
+    audioClip: {fileID: 8300000, guid: 2c37bf9d85dc46c4c818690e7be62759, type: 3}
+    volume: 1
+  - se: 12
+    audioClip: {fileID: 8300000, guid: 73ef865b718b7594b8a45195c87acb31, type: 3}
+    volume: 0.5
+  - se: 13
+    audioClip: {fileID: 8300000, guid: c375e940bb4f14b47be985dd21cc5c9a, type: 3}
+    volume: 0.5
+  - se: 14
+    audioClip: {fileID: 8300000, guid: b944199bdad10d64d92bb2c2258671b3, type: 3}
+    volume: 0.5
+  - se: 15
+    audioClip: {fileID: 8300000, guid: 217b76086293fc74fbedf4be9f0a5f39, type: 3}
+    volume: 0.5
+  - se: 16
+    audioClip: {fileID: 8300000, guid: 11105de0efebc344da1c3d1031afc485, type: 3}
+    volume: 0.5
+  - se: 17
+    audioClip: {fileID: 8300000, guid: 7f98f8d6a9fb7ad4488bab2b75827fff, type: 3}
+    volume: 0.5
+  - se: 18
+    audioClip: {fileID: 8300000, guid: faa12ef5f0682a94e9265685c7234048, type: 3}
+    volume: 0.5
+  - se: 19
+    audioClip: {fileID: 8300000, guid: 63c92fccc4f518845b9be93e69ea5294, type: 3}
+    volume: 0.5
+  GameLimitTime: 128
+  gameOver: 0
+  gameClear: 0
