@@ -1,5 +1,5 @@
 # Profile_JirajoChan
-![Title](46.png)
+![Title](説明用素材画像/46.png)
 ## ゲーム概要
 ### タイトル
 進め！じらじょちゃん
