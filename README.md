@@ -1,5 +1,5 @@
 # Profile_JirajoChan
-![Title](IMG_1764.png)
+![Title](46.png)
 ## ゲーム概要
 ### タイトル
 進め！じらじょちゃん
@@ -8,7 +8,7 @@
 ### テーマ
 地雷系女子とイケメンユニット地下アイドルのライブ
 ### ゲームジャンル
-モーションキャプチャー×アクションゲーム
+体感型アドベンチャーゲーム
 ### デバイス
 - プラットフォーム：Windows
 - 使用コントローラー：mocopi（ソニー）とJoy-Con（Nintendo Switch）の右手側(R)
@@ -31,7 +31,7 @@
 - ２０２３年１２月～１月：プレイヤーやそのほかのプログラムのデバッグ及び調整。UI演出の完成版を作成。ゲームとして完成させる。
 ### 開発環境
 - 使用エンジン：Unity 2021.3.9f1(URP)
-- 使用ツールデバイス（プログラム）：Visual Studio 2023、Visual Studio Code
+- 使用ツールデバイス（プログラム）：Visual Studio 2022、Visual Studio Code
 - 使用ツールデバイス（デザイン）：Maya、Adobe After Effect、Adobe Premia Pro他
 - バージョン管理ツール：GithubDeskTop
 - データ共有ツール：Googleドライブ
@@ -39,15 +39,22 @@
 - スケジュール管理ツール：Jira
 
 ## プレイ動画
-Googleドライブからダウンロードして見てください。
+Googleドライブからダウンロードして見てください。  
 [Googleドライブ(ゲームプレイ動画.mp4)](https://drive.google.com/drive/folders/1nMyY0sDotPW2siwIsQEvLhm_9mhOpkaG?usp=drive_link)
 
 ## 実行ファイル
-実行ファイルダウンロード先 : [Googleドライブ](https://drive.google.com/drive/folders/1cghRlKG18eoQ9CXvRTsFN24R8oswNXNR?usp=sharing)
+実行ファイルダウンロード先 : [Googleドライブ](https://drive.google.com/drive/folders/1cghRlKG18eoQ9CXvRTsFN24R8oswNXNR?usp=sharing)  
 ※Googleドライブからダウンロードできます
 
 起動方法：「進め！じらじょちゃん.exe」をダブルクリックして開いてください。
 
 ## 担当箇所・こだわったところ
 - [担当箇所の紹介・ソースコードの説明](担当箇所.md)
-- [こだわったところ・操作説明](こだわったとこ・操作説明.md)
+- [こだわった点について](こだわったところ.md)
+- [操作説明](操作説明.md)
+
+## 展示について
+東京工芸大学内のイベントにて本作品を展示し、大勢の人に遊んでいただきました。  
+- イベント名：コウゲイゲームショウ2024
+- 開催期間：2024年1月5日~2024年1月6日 ( 2日間 )
+- 開催場所：東京工芸大学６号館 
